@@ -1,0 +1,8 @@
+resources:
+  - ../apps
+
+patches:
+  - path: revisionhistorylimit-patch.yaml
+    target:
+      kind: Deployment
+

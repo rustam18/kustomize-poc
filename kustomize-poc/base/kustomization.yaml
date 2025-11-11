@@ -1,0 +1,9 @@
+resources:
+  - deployment.yaml
+
+patches:
+  - path: revisionhistorylimit-patch.yaml
+    target:
+      kind: Deployment
+      name: app1
+

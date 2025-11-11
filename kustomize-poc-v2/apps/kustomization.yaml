@@ -1,0 +1,4 @@
+resources:
+  - app1/deployment.yaml
+  - app2/deployment.yaml
+
