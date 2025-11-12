@@ -3,4 +3,4 @@ kind: Deployment
 metadata:
   name: dummy
 spec:
-  revisionHistoryLimit: 4
+  revisionHistoryLimit: 3
