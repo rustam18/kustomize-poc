@@ -13,6 +13,6 @@ spec:
         app: app1
     spec:
       containers:
-        - name: app1
+        - name: app2
           image: nginx:1.23
 
