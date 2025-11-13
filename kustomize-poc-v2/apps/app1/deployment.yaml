@@ -14,5 +14,5 @@ spec:
     spec:
       containers:
         - name: app1
-          image: nginx:1.24
+          image: nginx:1.25
 
